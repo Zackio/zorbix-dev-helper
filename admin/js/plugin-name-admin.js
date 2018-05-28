@@ -76,7 +76,7 @@ $('#').remove();
 
 $(window).load(function() {
 	countCSSRules();
-	countStylesheets();
+	// countStylesheets();
 })
 
 
